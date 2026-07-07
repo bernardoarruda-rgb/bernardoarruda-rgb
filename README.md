@@ -39,7 +39,8 @@ Instagram: [@bearruda__](https://instagram.com/bearruda__)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bernardoarruda-rgb&show_icons=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" width="48%" />
+![Followers](https://img.shields.io/github/followers/bernardoarruda-rgb?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=00FF41&logo=github&logoColor=00FF41)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&labelColor=000000&color=00FF41&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbernardoarruda-rgb&query=%24.public_repos)
 
 </div>
 
