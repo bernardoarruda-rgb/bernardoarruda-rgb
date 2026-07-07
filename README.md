@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Bernardo%20Arruda&fontColor=00FF41&fontSize=45&animation=fadeIn&fontAlignY=35)
+![Banner](https://raw.githubusercontent.com/bernardoarruda-rgb/bernardoarruda-rgb/main/banner.svg)
 
 ![Stack](https://img.shields.io/badge/-Desenvolvedor%20Full%20Stack-000000?style=for-the-badge&labelColor=000000&color=00FF41)
 
