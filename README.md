@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bernardoarruda-rgb/bernardoarruda-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Bernardo%20Arruda&fontColor=00FF41&fontSize=45&animation=fadeIn&fontAlignY=35)
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+Node.js;C%23+%7C+TypeScript+%7C+PostgreSQL;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### `> whoami`
+
+Desenvolvedor full stack, com experiencia do front ao back-end. Gosto de transformar ideias em produtos funcionais e bem estruturados.
+
+Portfolio: [bearruda.com.br](https://bearruda.com.br) <br>
+LinkedIn: [bernardomedeirosarruda](https://www.linkedin.com/in/bernardomedeirosarruda) <br>
+Instagram: [@bearruda__](https://instagram.com/bearruda__)
+
+---
+
+### `> stack`
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+
+</div>
+
+---
+
+### `> stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bernardoarruda-rgb&show_icons=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" width="48%" />
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer)
+
+</div>
