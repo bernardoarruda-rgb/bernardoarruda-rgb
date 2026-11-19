@@ -1,51 +1,42 @@
-<div align="center">
+# Bernardo Arruda
 
-![Banner](https://raw.githubusercontent.com/bernardoarruda-rgb/bernardoarruda-rgb/main/banner.svg)
+**Desenvolvedor full stack**
 
-![Stack](https://img.shields.io/badge/-Desenvolvedor%20Full%20Stack-000000?style=for-the-badge&labelColor=000000&color=00FF41)
+Trabalho com aplicações web, integrações entre sistemas e IA aplicada, da análise do problema à implementação.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/bernardomedeirosarruda) · [E-mail](mailto:bernardoarruda212@gmail.com)
 
----
+## Tecnologias
 
-### `> whoami`
+- **Backend:** C#/.NET, Node.js e PostgreSQL.
+- **Frontend:** React, Next.js, JavaScript e TypeScript.
+- **Cloud:** Google Cloud (GCP).
+- **IA:** agentes personalizados, MCP e desenvolvimento agêntico.
 
-Desenvolvedor full stack, com experiencia do front ao back-end. Gosto de transformar ideias em produtos funcionais e bem estruturados.
+## Trabalhos em destaque
 
-Portfolio: [bearruda.com.br](https://bearruda.com.br) <br>
-LinkedIn: [bernardomedeirosarruda](https://www.linkedin.com/in/bernardomedeirosarruda) <br>
-Instagram: [@bearruda__](https://instagram.com/bearruda__)
+Os projetos abaixo têm código privado. Aqui, compartilho o que fazem e as tecnologias utilizadas.
 
----
+### Sistema comercial e contratos eletrônicos
 
-### `> stack`
+Aplicação para simular preços, comparar planos, gerar propostas e receber aceite eletrônico. As condições da negociação ficam preservadas, e o aceite é vinculado à versão do documento apresentado ao cliente.
 
-<div align="center">
+*C#/.NET · React · TypeScript · PostgreSQL*
 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+### Integração entre gestão e CRM
 
-</div>
+Sincronização de cadastros, contatos e informações contratuais. Inclui normalização dos dados, tratamento de conflitos e proteção contra a perda de informações durante atualizações ou falhas de consulta.
 
----
+*JavaScript · Node.js · APIs REST · Kubernetes*
 
-### `> stats`
+### Agentes de IA com MCP
 
-<div align="center">
+Automação que conecta agentes às tarefas de um sistema de projetos. Reúne sessões de desenvolvimento e histórico do Git, prepara registros de trabalho e permite revisá-los antes do envio, com controle de duplicidade.
 
-![Followers](https://img.shields.io/github/followers/bernardoarruda-rgb?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=00FF41&logo=github&logoColor=00FF41)
-![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&labelColor=000000&color=00FF41&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbernardoarruda-rgb&query=%24.public_repos)
+*TypeScript · Node.js · MCP*
 
-</div>
+## Como trabalho
 
-<div align="center">
+Sou autodidata, comunicativo e proativo. Trabalho com autonomia e em equipe, com planejamento, documentação, segurança dos dados e atenção aos detalhes. Diante de obstáculos, pesquiso alternativas e adapto a solução.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer)
-
-</div>
+Fora do código: academia, jogos, música e tempo com meus amigos.
